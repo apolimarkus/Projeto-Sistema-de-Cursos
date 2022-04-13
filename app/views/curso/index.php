@@ -1,6 +1,6 @@
 <div class="container mb-5">
 
-    <h2>Cursos Cadastrados no Sistema</h2>
+    <h1>Cursos Cadastrados no Sistema</h1>
     <br>
     <table class="table">
         <thead>
